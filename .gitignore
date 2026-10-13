@@ -25,3 +25,6 @@ app/app_k230/
 .settings/
 .vscode/
 .idea/
+
+# 调试残留
+.dbg/
