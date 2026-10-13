@@ -1,0 +1,12 @@
+{
+    "_comment": "项目信息源文件：编译时由 build 脚本读取并合并到部署目录的 device.json。修改设备信息只需改本文件后重新编译。",
+    "manufacturer": "Sankuai WanJi",
+    "device_model": "Dion 5 Pro",
+    "model_id": "dc001",
+    "firmware_version": "V1.0.0",
+    "camera_firmware_version": "V1.0.0",
+    "cmiit_id": "",
+    "fcc_id": "",
+    "ic_can": "",
+    "ices_id": ""
+}

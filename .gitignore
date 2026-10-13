@@ -1,0 +1,27 @@
+# 构建产物
+build/
+build_pc/
+CMakeFiles/
+CMakeCache.txt
+*.o
+*.so
+*.so.*
+lvglsim
+deploy/
+
+# 系统镜像 / 日志
+*.ext4
+*.gz
+*.img
+*.log
+logs_info_*/
+
+# 部署包
+app/app1/
+app/app_k230/
+
+# IDE / 工具
+.trae/
+.settings/
+.vscode/
+.idea/

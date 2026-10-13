@@ -1,0 +1,12 @@
+{
+    "serial_number": "SDC00125",
+    "manufacturer": "Sankuai WanJi",
+    "device_model": "Dion 5 Pro",
+    "model_id": "dc001",
+    "cmiit_id": "abc123456",
+    "fcc_id": "abc123456",
+    "ic_can": "abc123456",
+    "ices_id": "abc123456",
+    "firmware_version": "V1.0.0",
+    "camera_firmware_version": "1.5"
+}
