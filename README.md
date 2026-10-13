@@ -1,4 +1,4 @@
-# K230 运动相机 LVGL 应用
+﻿# K230 运动相机 LVGL 应用
 
 基于 [LVGL 9.4](https://github.com/lvgl/lvgl) 的嵌入式 Linux 运动相机风格 GUI 应用，运行于 **Canaan K230**（riscv64，CanMV / Linux 6.6.36），支持摄像头预览、拍照录像、相册回放、WiFi 连接等完整功能，并可在 PC（SDL2）上模拟运行，方便无硬件开发调试。
 
@@ -183,7 +183,7 @@ K230 构建关键参数：架构 `riscv64` / 内核 `Linux 6.6.36`（canaan）�
 
 ## 开源许可
 
-本项目源码以 **MIT License** 发布，详见 [LICENSE](LICENSE)。
+本项目源码以 **GNU GPL v3.0** 发布，详见 [LICENSE](LICENSE)。
 
 - 依赖组件：LVGL（MIT）、lv_port_linux 后端（MIT）、libjpeg-turbo（BSD）、FFmpeg（LGPL，可选）、wpa_supplicant 控制接口（BSD）
 - 内置字体 DroidSansFallbackFull.ttf 版权归 Google/其作者所有，Apache 2.0 许可，仅供演示使用
@@ -193,3 +193,4 @@ K230 构建关键参数：架构 `riscv64` / 内核 `Linux 6.6.36`（canaan）�
 - [LVGL](https://github.com/lvgl/lvgl) — 开源嵌入式图形库
 - [lv_port_linux](https://github.com/lvgl/lv_port_linux) — Linux 平台显示/输入后端参考实现
 - Canaan（嘉楠科技）— K230 硬件平台与 SDK
+
